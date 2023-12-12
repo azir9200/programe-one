@@ -65,11 +65,11 @@ select {
 
 .field {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 12px;
 }
 
 button {
-  color: white;
+  color: greenyellow;
   border: 0;
   background: #ff0aa7;
   padding: 6px;
